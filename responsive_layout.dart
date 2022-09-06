@@ -1,3 +1,10 @@
+/*
+ * ResponsiveLayout.dart
+ * Flutter
+ * Created by Tanishq Chawda on 06/09/22, 2:53 PM
+ * Copyright © 2022 Tanishq Chawda. All rights reserved.
+ */
+
 import 'package:flutter/material.dart';
 
 class ResponsiveLayout extends StatelessWidget {
